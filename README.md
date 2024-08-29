@@ -1,2 +1,2 @@
-# coursera-test
-Coursera test repository
+# Module 2 Solution (Coding Assignment)
+Module 2 Solution
